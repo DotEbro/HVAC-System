@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bath1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bath2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bath3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bed1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bed2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drawing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBath1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBath2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBath3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBed1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBed2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FBed3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinalPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FKitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FLobby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lobby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
